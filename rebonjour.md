@@ -17,3 +17,4 @@ lang: fr
 abbrlink: nous-voila-rencontres-la-terre-et-nous
 --- 
 # début d'un nouveau texte
+ceci est une grande avancée (pomme ,)
